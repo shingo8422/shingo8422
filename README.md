@@ -1,34 +1,38 @@
 
 # 自己紹介
 
-氏名　　: 佐藤慎吾  
-業務形態: 個人事業主  
-年齢　　: 26  
-生年月日: 1997-04-25  
-性別　　: 男性  
-最寄り　: 札幌地下鉄東西線  
-最終学歴: 高卒(大学中退)  
-所在地　: 北海道札幌市  
-資格　　: [AWS Certified Solutions Architect Professional](https://www.credly.com/users/shingo-sato.6e128a4c/badges)  
-自己ＰＲ: 要件定義や設計などの上流工程も大歓迎です。インフラとバックエンドが一番の得意領域です。自動化が好きです。  
+| key      | value                                                                                                      |
+| -------- | ---------------------------------------------------------------------------------------------------------- |
+| 氏名     | 佐藤慎吾                                                                                                   |
+| 業務形態 | 個人事業主                                                                                                 |
+| 年齢     | 26                                                                                                         |
+| 生年月日 | 1997-04-25                                                                                                 |
+| 性別     | 男性                                                                                                       |
+| 最寄り   | 札幌地下鉄                                                                                                 |
+| 最終学歴 | 高卒(大学中退)                                                                                             |
+| 所在地   | 北海道札幌市                                                                                               |
+| 資格     | [AWS Certified Solutions Architect Professional](https://www.credly.com/users/shingo-sato.6e128a4c/badges) |
+| 自己ＰＲ | 要件定義や設計などの上流工程も大歓迎です。インフラとバックエンドが一番の得意領域です。自動化が好きです。   |
 
 # スキル
 
-プログラミング言語: PHP, Python, Java, TypeScript, JavaScript, Ruby  
-フレームワーク: Laravel(PHP) , Django(Python) , SpringBoot(Java) , Angular(TypeScript) , Rails(ruby)  
-コンテナ技術: Docker, Kubernetes, EKS(AWS), ECS(AWS), ECR(AWS)  
-CDN: CloudFront, Vercel  
-CICD: CodePipeline(AWS), CircleCI, GithubActions, ArgoCD(k8s), Cloudbuild(GCP)  
-IaC: Terraform, Terraform Cloud, CloudFormation  
-DB: MySQL, PostgreSQL, MongoDB, Redis, RDS(Aurora), DocumentDB, MemoryDB, Elasticache, Elasticsearch  
-データ分析系: Redash, BigQuery(GCP), Kibana, Digdag(Embulk)  
-機械学習(ML): AWS Personalize、Tensorflow Recommender  
-ソースコード管理: git, Github, Gitlab, CodeCommit(AWS)  
-認証系サービス: Auth0  
-メール系サービス: Sendgrid, SES(AWS)  
-監視ツール: Datadog, StatusPage(Attlacian), Cloudwatch(AWS)  
-その他使用経験のあるAWSサービス: EC2, RDS, DocumentDB, S3, CloudFront, ELB, VPC, Route53, SMS, SES, SQS, Kinesis Firehose, WAF, ECS, Fargate, Lambda, APIGateway, Aurora RDS, MemoryDB, CodeBuild, CodeDeploy, CodePipeline, Lambda, ECS Task, CloudWatch, CloudFormation, CloudTrail, AWS Config, GuardDuty, Well Architect, AWS SSO, AWS Personalize  
-その他使用経験のあるGCPサービス: CloudStorage, CloudFunctions, BigQuery, Cloudbuild, Dataflow Template  
+| key                             | value                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| プログラミング言語              | PHP, Python, Java, TypeScript, JavaScript, Ruby                                                                                                                                                                                                                                                                       |
+| フレームワーク                  | Laravel(PHP) , Django(Python) , SpringBoot(Java) , Angular(TypeScript) , Rails(ruby)                                                                                                                                                                                                                                  |
+| コンテナ技術                    | Docker, Kubernetes, EKS(AWS), ECS(AWS), ECR(AWS)                                                                                                                                                                                                                                                                      |
+| CDN                             | CloudFront, Vercel                                                                                                                                                                                                                                                                                                    |
+| CICD                            | CodePipeline(AWS), CircleCI, GithubActions, ArgoCD(k8s), Cloudbuild(GCP)                                                                                                                                                                                                                                              |
+| IaC                             | Terraform, Terraform Cloud, CloudFormation                                                                                                                                                                                                                                                                            |
+| DB                              | MySQL, PostgreSQL, MongoDB, Redis, RDS(Aurora), DocumentDB, MemoryDB, Elasticache, Elasticsearch                                                                                                                                                                                                                      |
+| データ分析系                    | Redash, BigQuery(GCP), Kibana, Digdag(Embulk)                                                                                                                                                                                                                                                                         |
+| 機械学習(ML)                    | AWS Personalize、Tensorflow Recommender                                                                                                                                                                                                                                                                               |
+| ソースコード管理                | git, Github, Gitlab, CodeCommit(AWS)                                                                                                                                                                                                                                                                                  |
+| 認証系サービス                  | Auth0                                                                                                                                                                                                                                                                                                                 |
+| メール系サービス                | Sendgrid, SES(AWS)                                                                                                                                                                                                                                                                                                    |
+| 監視ツール                      | Datadog, StatusPage(Attlacian), Cloudwatch(AWS)                                                                                                                                                                                                                                                                       |
+| その他使用経験のあるAWSサービス | EC2, RDS, DocumentDB, S3, CloudFront, ELB, VPC, Route53, SMS, SES, SQS, Kinesis Firehose, WAF, ECS, Fargate, Lambda, APIGateway, Aurora RDS, MemoryDB, CodeBuild, CodeDeploy, CodePipeline, Lambda, ECS Task, CloudWatch, CloudFormation, CloudTrail, AWS Config, GuardDuty, Well Architect, AWS SSO, AWS Personalize |
+| その他使用経験のあるGCPサービス | CloudStorage, CloudFunctions, BigQuery, Cloudbuild, Dataflow Template                                                                                                                                                                                                                                                 |
 
 # 経歴 
 
