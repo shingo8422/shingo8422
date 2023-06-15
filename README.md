@@ -1,16 +1,16 @@
 
 # 自己紹介
 
-氏名: 佐藤慎吾  
+氏名　　: 佐藤慎吾  
 業務形態: 個人事業主  
-年齢: 26  
+年齢　　: 26  
 生年月日: 1997-04-25  
-性別: 男性  
-最寄り: 札幌地下鉄東西線  
+性別　　: 男性  
+最寄り　: 札幌地下鉄東西線  
 最終学歴: 高卒(大学中退)  
-所在地: 北海道札幌市  
-資格: [AWS Certified Solutions Architect Professional](https://www.credly.com/users/shingo-sato.6e128a4c/badges)  
-自己PR: 要件定義や設計などの上流工程も大歓迎です。インフラとバックエンドが一番の得意領域です。自動化が好きです。  
+所在地　: 北海道札幌市  
+資格　　: [AWS Certified Solutions Architect Professional](https://www.credly.com/users/shingo-sato.6e128a4c/badges)  
+自己ＰＲ: 要件定義や設計などの上流工程も大歓迎です。インフラとバックエンドが一番の得意領域です。自動化が好きです。  
 
 # スキル
 
@@ -26,23 +26,23 @@ DB: MySQL, PostgreSQL, MongoDB, Redis, RDS(Aurora), DocumentDB, MemoryDB, Elasti
 ソースコード管理: git, Github, Gitlab, CodeCommit(AWS)  
 認証系サービス: Auth0  
 メール系サービス: Sendgrid, SES(AWS)  
-監視/アラート: Datadog, StatusPage(Attlacian), Cloudwatch(AWS)  
+監視ツール: Datadog, StatusPage(Attlacian), Cloudwatch(AWS)  
 その他使用経験のあるAWSサービス: EC2, RDS, DocumentDB, S3, CloudFront, ELB, VPC, Route53, SMS, SES, SQS, Kinesis Firehose, WAF, ECS, Fargate, Lambda, APIGateway, Aurora RDS, MemoryDB, CodeBuild, CodeDeploy, CodePipeline, Lambda, ECS Task, CloudWatch, CloudFormation, CloudTrail, AWS Config, GuardDuty, Well Architect, AWS SSO, AWS Personalize  
 その他使用経験のあるGCPサービス: CloudStorage, CloudFunctions, BigQuery, Cloudbuild, Dataflow Template  
 
 # 経歴 
 
-1. 株式会社ウィナス
+## 株式会社ウィナス
   - ラベル管理アプリケーションへの機能追加案件(3 Month)
   - 旅行情報サイトのリニューアル(5 Month)
   - ゲームのAPIサーバーの開発(5 Month)
-2. Intloop株式会社
+## Intloop株式会社
   - フリーランス向けの営業支援システムの開発- 運用(4 Month)
-3. 個人事業主(フリーランスエンジニア)
+## 個人事業主(フリーランスエンジニア)
   - 不動産電子契約システムの新規開発(6 Month)
-4. リアルグローブオートメイティッド
+## リアルグローブオートメイティッド
   - 工場作業者向けの生産管理システムの開発(3 Month)
-5. 個人事業主(フリーランスエンジニア)
+## 個人事業主(フリーランスエンジニア)
   - 不動産電子契約システムの開発補助(8 Month)
   - ERPシステムのインフラ調査- 移行- 設計(5 Month)
   - 不動産営業支援- 賃貸マンション検索サービスのSRE業務(5 Month)
