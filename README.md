@@ -360,13 +360,17 @@ DBの水平分割というテクニックがあることもこの案件で知り
 
 インフラ・DevOps
 
-- ECS(コンテナ)への移行 -> Doing
-- CloudFormationからCDKへの移行 -> Doing
+- ECS(コンテナ)への移行 -> Done
+- CloudFormationからCDKへの移行 -> Done
+- マルチリージョン対応 -> Done
+  - GlobalDatabaseの追加
+  - フェイルオーバー作業の自動化
+- AWS Cloudwatch Dashboardの作成 -> Doing
 - Datadogを用いて、監視基盤の構築 -> TODO
 
 バックエンド
 
-- ローカル開発環境の構築 -> Doing
+- ローカル開発環境の構築 -> Done
 - 分析しやすいようなログのフォーマットの調整 -> TODO
 - サービスへのSSO(SAML認証)の導入 -> TODO
 
