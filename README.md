@@ -361,16 +361,20 @@ DBの水平分割というテクニックがあることもこの案件で知り
 インフラ・DevOps
 
 - ECS(コンテナ)への移行 -> Done
-- CloudFormationからCDKへの移行 -> Done
+  - アプリのコンテナ化
+  - CICDパイプライン(GithubActions)の構築
+- AWS CDKでのIaC実現 -> Done
+  - Pythonでコーディング
+  - CDKのCICDパイプライン(GithubActions)の構築
 - マルチリージョン対応 -> Done
   - GlobalDatabaseの追加
-  - フェイルオーバー作業の自動化
+  - フェイルオーバー作業自動化のためのスクリプト作成
 - AWS Cloudwatch Dashboardの作成 -> Doing
 - Datadogを用いて、監視基盤の構築 -> TODO
 
 バックエンド
 
-- ローカル開発環境の構築 -> Done
+- Dockerでのローカル開発環境の構築 -> Done
 - 分析しやすいようなログのフォーマットの調整 -> TODO
 - サービスへのSSO(SAML認証)の導入 -> TODO
 
