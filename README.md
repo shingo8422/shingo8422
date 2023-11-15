@@ -369,8 +369,11 @@ DBの水平分割というテクニックがあることもこの案件で知り
 - マルチリージョン対応 -> Done
   - GlobalDatabaseの追加
   - フェイルオーバー作業自動化のためのスクリプト作成
-- AWS Cloudwatch Dashboardの作成 -> Doing
-- Datadogを用いて、監視基盤の構築 -> TODO
+- AWS Cloudwatch Dashboardの作成 -> Done
+  - Stack毎にCDKで作成
+- アプリケーションのオートスケーリング実現 -> Done
+  - リクエスト数でスケールするための設定の記述
+  - 負荷テストでの動作確認の実施
 
 バックエンド
 
