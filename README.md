@@ -372,26 +372,27 @@ DBの水平分割というテクニックがあることもこの案件で知り
 
 インフラ・DevOps
 
-- ECS(コンテナ)への移行 -> Done
+- ECS(コンテナ)への移行
   - アプリのコンテナ化
   - CICDパイプライン(GithubActions)の構築
-- AWS CDKでのIaC実現 -> Done
+- AWS CDKでのIaC実現
   - Pythonでコーディング
   - CDKのCICDパイプライン(GithubActions)の構築
-- マルチリージョン対応 -> Done
+- マルチリージョン対応
   - GlobalDatabaseの追加
   - フェイルオーバー作業自動化のためのスクリプト作成
-- AWS Cloudwatch Dashboardの作成 -> Done
+- AWS Cloudwatch Dashboardの作成
   - Stack毎にCDKで作成
-- アプリケーションのオートスケーリング実現 -> Done
+- アプリケーションのオートスケーリング実現
   - リクエスト数でスケールするための設定の記述
   - 負荷テストでの動作確認の実施
+- AWS DirectoryServiceとADFSによるSAML認証の検証
 
 バックエンド
 
-- Dockerでのローカル開発環境の構築 -> Done
-- 分析しやすいようなログのフォーマットの調整 -> TODO
-- サービスへのSSO(SAML認証)の導入 -> TODO
+- Dockerでのローカル開発環境の構築
+- SAML認証が行うための機能開発
+  - ADFSやAzureADでのSSOを実現するために実装
 
 ### コメント
 
