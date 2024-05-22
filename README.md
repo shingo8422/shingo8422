@@ -13,7 +13,6 @@
 | 資格     | [AWS Certified Solutions Architect Professional](https://www.credly.com/users/shingo-sato.6e128a4c/badges) |
 || 普通運転免許証AT |
 || 危険物 乙種第4類 |
-|| 日商簿記3級 |
 | 自己ＰＲ | インフラとバックエンドが一番の得意領域です。自動化が好きです。パフォーマンスチューニングとかも好きです。要件定義や設計などの上流工程も大歓迎です。   |
 
 # 性格・長所
