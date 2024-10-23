@@ -359,3 +359,7 @@ Backend
   - Replaced inefficient or highly complex services to improve overall system quality and optimize costs, etc.
   - Infrastructure architecture modification of services with security vulnerabilities
 - Implementation of provisioning function in compliance with SCIM2.0 standard
+- Construction of data analysis infrastructure
+  - Creation of Redash, an analysis tool, in ECS environment
+  - Introduction of Redshift. Implementation of Zero ETL.
+  - Realization of DB migration using Flyway
