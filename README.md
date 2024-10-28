@@ -28,20 +28,21 @@
 
 # Skills
 
-| Item                   | Content                                                                                |
-| ---------------------- | -------------------------------------------------------------------------------------- |
-| Programming Languages  | PHP, Python, Java, TypeScript, JavaScript, Ruby                                        |
-| Frameworks             | Laravel(PHP), Django(Python), SpringBoot(Java), Angular(TypeScript), Rails(Ruby)       |
-| Container Technology   | Docker, Kubernetes, EKS(AWS), ECS(AWS), ECR(AWS)                                       |
-| CDN                    | CloudFront, Vercel                                                                     |
-| CICD                   | CodePipeline(AWS), CircleCI, GithubActions, Cloudbuild(GCP)                            |
-| IaC                    | Terraform, Terraform Cloud, CloudFormation, AWS CDK                                    |
-| DB                     | MySQL, PostgreSQL, MongoDB, Redis, RDS(Aurora), DocumentDB, Elasticache, Elasticsearch |
-| Data Analysis          | Redash, BigQuery(GCP), Kibana, Digdag(Embulk)                                          |
-| Source Code Management | git, Github, Gitlab, CodeCommit(AWS)                                                   |
-| Authentication Service | Auth0, Cognito                                                                         |
-| Email Service          | Sendgrid, SES(AWS)                                                                     |
-| Monitoring Tool        | Datadog, Sentry, StatusPage(Attlacian), Cloudwatch(AWS)                                |
+| Item                   | Content                                                                          |
+| ---------------------- | -------------------------------------------------------------------------------- |
+| Programming Languages  | Python, Ruby, PHP, Java, TypeScript, JavaScript                                  |
+| Frameworks             | Laravel(PHP), Django(Python), SpringBoot(Java), Angular(TypeScript), Rails(Ruby) |
+| Container Technology   | Docker, Kubernetes, EKS(AWS), ECS(AWS), ECR(AWS)                                 |
+| CDN                    | CloudFront, Vercel                                                               |
+| CICD                   | CodePipeline(AWS), CircleCI, GithubActions, Cloudbuild(GCP)                      |
+| IaC                    | Terraform, Terraform Cloud, CloudFormation, AWS CDK                              |
+| DB                     | MySQL, PostgreSQL, MongoDB, Redis, RDS(Aurora), DocumentDB, Elasticache          |
+| Search Engine          | OpenSearch(AWS), Elasticsearch(Elastic Cloud)                                    |
+| Data Analysis          | Redash, BigQuery(GCP), Redshift(AWS), Kibana, Digdag(Embulk)                     |
+| Source Code Management | git, Github, Gitlab, CodeCommit(AWS)                                             |
+| Authentication Service | Auth0, Cognito                                                                   |
+| Email Service          | Sendgrid, SES(AWS)                                                               |
+| Monitoring Tool        | Datadog, Sentry, StatusPage(Attlacian), Cloudwatch(AWS)                          |
 
 # Career
 
