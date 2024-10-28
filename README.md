@@ -14,27 +14,34 @@
 
 # Experienced Job Positions
 
-- Backend Engineer
-- Infrastructure Engineer
-- DevOps Engineer
-- SRE Engineer
+- Backend Engineer (5 years over)
+- Infrastructure Engineer (5 years over)
+- DevOps Engineer (3 years over)
+- SRE Engineer (2 years over)
+
+# My Strong Points
+
+- I have experience in various fields, so I can adapt to various situations.
+- I have a lot of experience with Ruby on Rails and other Frameworks, so I can contribute to the project as a backend engineer.
+- I have experience with AWS, so I can contribute to the project as an infrastructure engineer.
+- I have experience with SRE, so I can contribute to the project as an SRE engineer.
 
 # Skills
 
-| Item                   | Content                                                                                          |
-| ---------------------- | ------------------------------------------------------------------------------------------------ |
-| Programming Languages  | PHP, Python, Java, TypeScript, JavaScript, Ruby                                                  |
-| Frameworks             | Laravel(PHP), Django(Python), SpringBoot(Java), Angular(TypeScript), Rails(Ruby)                 |
-| Container Technology   | Docker, Kubernetes, EKS(AWS), ECS(AWS), ECR(AWS)                                                 |
-| CDN                    | CloudFront, Vercel                                                                               |
-| CICD                   | CodePipeline(AWS), CircleCI, GithubActions, Cloudbuild(GCP)                                      |
-| IaC                    | Terraform, Terraform Cloud, CloudFormation                                                       |
-| DB                     | MySQL, PostgreSQL, MongoDB, Redis, RDS(Aurora), DocumentDB, MemoryDB, Elasticache, Elasticsearch |
-| Data Analysis          | Redash, BigQuery(GCP), Kibana, Digdag(Embulk)                                                    |
-| Source Code Management | git, Github, Gitlab, CodeCommit(AWS)                                                             |
-| Authentication Service | Auth0                                                                                            |
-| Email Service          | Sendgrid, SES(AWS)                                                                               |
-| Monitoring Tool        | Datadog, StatusPage(Attlacian), Cloudwatch(AWS)                                                  |
+| Item                   | Content                                                                                |
+| ---------------------- | -------------------------------------------------------------------------------------- |
+| Programming Languages  | PHP, Python, Java, TypeScript, JavaScript, Ruby                                        |
+| Frameworks             | Laravel(PHP), Django(Python), SpringBoot(Java), Angular(TypeScript), Rails(Ruby)       |
+| Container Technology   | Docker, Kubernetes, EKS(AWS), ECS(AWS), ECR(AWS)                                       |
+| CDN                    | CloudFront, Vercel                                                                     |
+| CICD                   | CodePipeline(AWS), CircleCI, GithubActions, Cloudbuild(GCP)                            |
+| IaC                    | Terraform, Terraform Cloud, CloudFormation, AWS CDK                                    |
+| DB                     | MySQL, PostgreSQL, MongoDB, Redis, RDS(Aurora), DocumentDB, Elasticache, Elasticsearch |
+| Data Analysis          | Redash, BigQuery(GCP), Kibana, Digdag(Embulk)                                          |
+| Source Code Management | git, Github, Gitlab, CodeCommit(AWS)                                                   |
+| Authentication Service | Auth0, Cognito                                                                         |
+| Email Service          | Sendgrid, SES(AWS)                                                                     |
+| Monitoring Tool        | Datadog, Sentry, StatusPage(Attlacian), Cloudwatch(AWS)                                |
 
 # Career
 
@@ -49,29 +56,29 @@ I worked at a gas station and a internet-cafe.
 I resigned at the end of the trial period because it was a not good work environment.
 
 ## www.winas.jp (2019-9 ~ 2020-09)
-  - [Feature Addition Project for Label Management Application](#ラベル管理アプリケーションへの機能追加案件)(3 Month)
-  - [Renewal of Travel Information Site](#旅行情報サイトのリニューアル)(5 Month)
-  - [Development of Game API Server](#ゲームのAPIサーバーの開発)(5 Month)
+  - [Feature Addition Project for Label Management Application](#feature-addition-project-for-label-management-application)(3 Month)
+  - [Renewal of Travel Information Site](#renewal-of-travel-information-site)(5 Month)
+  - [Development of Game API Server](#development-of-game-api-server)(5 Month)
 
 ## intloop.com (2020-10 ~ 2021~01)
-  - [Development and Operation of Sales Support System for Freelancers](#フリーランス向けの営業支援システムの開発_運用)(4 Month)
+  - [Development and Operation of Sales Support System for Freelancers](#development-and-operation-of-sales-support-system-for-freelancers)(4 Month)
 
 ## Individual Business Owner(2021-01 ~ 2021-06)
-  - [New Development of Real Estate Electronic Contract System](#不動産電子契約システムの新規開発)(6 Month)
+  - [New Development of Real Estate Electronic Contract System](#new-development-of-real-estate-electronic-contract-system)(6 Month)
 
 ## rg-automated.jp (2021-07 ~ 2021-09)
-  - [Development of Production Management System for Factory Workers](#工場作業者向けの生産管理システムの開発)(3 Month)
+  - [Development of Production Management System for Factory Workers](#development-of-production-management-system-for-factory-workers)(3 Month)
 
 ## Individual Business Owner (Freelance Engineer)(2021-10 ~ 2023-12-31)
-  - [Development Assistance for Real Estate Electronic Contract System](#不動産電子契約システムの開発補助)(8 Month)
-  - [Development of Real Estate Sales Support and Rental Apartment Search Service](#不動産営業支援_賃貸マンション検索サービスの開発)(5 Month)
-  - [Loan Application Service for Financial Institutions](#金融関係のローン申請サービス)(2 Month)
-  - [Cosmetic Surgery Appointment and Review Posting Service](#美容整形の施術予約_口コミ投稿サービス)(2 years over)
-  - [Development of Multi-tenant Service for Logistics Warehouse Management](#物流倉庫の管理マルチテナントサービスの開発) -> (3 month)
+  - [Development Assistance for Real Estate Electronic Contract System](#development-assistance-for-real-estate-electronic-contract-system)(8 Month)
+  - [Development of Real Estate Sales Support and Rental Apartment Search Service](#development-of-real-estate-sales-support-and-rental-apartment-search-service)(5 Month)
+  - [Loan Application Service for Financial Institutions](#loan-application-service-for-financial-institutions)(2 Month)
+  - [Cosmetic Surgery Appointment and Review Posting Service](#cosmetic-surgery-appointment-and-review-posting-service)(2 years over)
+  - [Development of Multi-tenant Service for Logistics Warehouse Management](#development-of-multi-tenant-service-for-logistics-warehouse-management) -> (3 month)
 
-## hubble-docs.com (2024-01-01 ~ now)
+## hubble-docs.com (2024-01-01 ~ current)
 
-  - [Engaged in SRE Work for Contract-related Services](#契約書関連サービスでSRE業務に従事)
+  - [Engaged in SRE Work for Contract-related Services](#engaged-in-sre-work-for-contract-related-services)
 
 # Project Details
 
@@ -358,8 +365,10 @@ Backend
 - Re-architecture of the entire system
   - Replaced inefficient or highly complex services to improve overall system quality and optimize costs, etc.
   - Infrastructure architecture modification of services with security vulnerabilities
+  - Integration of services developed in other languages or Lambda into Rails to simplify the system
 - Implementation of provisioning function in compliance with SCIM2.0 standard
 - Construction of data analysis infrastructure
   - Creation of Redash, an analysis tool, in ECS environment
   - Introduction of Redshift. Implementation of Zero ETL.
   - Realization of DB migration using Flyway
+- Implementation of analysis functions for customers using Amazon Quicksight
