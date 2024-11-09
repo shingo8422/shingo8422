@@ -1,4 +1,4 @@
-# Self Introduction
+# 自己紹介
 
 | Item            | Content                                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -12,21 +12,22 @@
 | Qualification   | [AWS Certified Solutions Architect Professional](https://www.credly.com/users/shingo-sato.6e128a4c/badges) |
 | Driving License | Regular Driver's License (Automatic Transmission)                                                          |
 
-# Experienced Job Positions
+# 経験したポジション
 
-- Backend Engineer (5 years over)
-- Infrastructure Engineer (5 years over)
-- DevOps Engineer (3 years over)
-- SRE Engineer (2 years over)
+- バックエンドエンジニア (5年以上)
+- インフラエンジニア (5年以上)
+- DevOpsエンジニア (3年以上)
+- SREエンジニア (2年以上)
 
-# My Strong Points
+# 強み
 
-- I have experience in various fields, so I can adapt to various situations.
-- I have a lot of experience with Ruby on Rails and other Frameworks, so I can contribute to the project as a backend engineer.
-- I have experience with AWS, so I can contribute to the project as an infrastructure engineer.
-- I have experience with SRE, so I can contribute to the project as an SRE engineer.
+- 様々なポジションでの開発経験があるため、状況に応じて柔軟に対応できます。
+- システムを俯瞰的にみて、開発ができます。
+- 顧客のユーザー体験はいつも頭の片隅に置いていて、責任感を持って仕事に取り組んでいます。
+- エンジニア以外のチームにわかりやすい言葉で説明することができます。
+- 問題解決能力・論理的思考力が高いです。
 
-# Skills
+# スキル
 
 | Item                   | Content                                                                          |
 | ---------------------- | -------------------------------------------------------------------------------- |
@@ -44,332 +45,334 @@
 | Email Service          | Sendgrid, SES(AWS)                                                               |
 | Monitoring Tool        | Datadog, Sentry, StatusPage(Attlacian), Cloudwatch(AWS)                          |
 
-# Career
+# 経歴
 
-## Ishikari South High School Graduation(2016-03)
+## 石狩南高校 卒業(2016-03)
 
-## Hokkaido University of Education Dropout(2016-04 ~ 2017-03)
+## 北海道教育大学 中退(2016-04 ~ 2017-03)
 
-## Part-time Worker(2017-04 ~ 2019-03)
-I worked at a gas station and a internet-cafe.
+## アルバイト(2017-04 ~ 2019-03)
+ガソリンスタンドとインターネットカフェで働いていました。
 
 ## www.valtech.jp (2019-04)
-I resigned at the end of the trial period because it was a not good work environment.
+試用期間中に職場環境が合わず退職。
 
 ## www.winas.jp (2019-9 ~ 2020-09)
-  - [Feature Addition Project for Label Management Application](#feature-addition-project-for-label-management-application)(3 Month)
-  - [Renewal of Travel Information Site](#renewal-of-travel-information-site)(5 Month)
-  - [Development of Game API Server](#development-of-game-api-server)(5 Month)
+  - [ラベル管理アプリケーションの機能追加プロジェクト](#feature-addition-project-for-label-management-application)(3ヶ月)
+  - [旅行情報サイトのリニューアル](#renewal-of-travel-information-site)(5ヶ月)
+  - [ゲームAPIサーバーの開発](#development-of-game-api-server)(5ヶ月)
 
 ## intloop.com (2020-10 ~ 2021~01)
-  - [Development and Operation of Sales Support System for Freelancers](#development-and-operation-of-sales-support-system-for-freelancers)(4 Month)
+  - [フリーランス向け営業支援システムの開発・運用](#development-and-operation-of-sales-support-system-for-freelancers)(4ヶ月)
 
-## Individual Business Owner(2021-01 ~ 2021-06)
-  - [New Development of Real Estate Electronic Contract System](#new-development-of-real-estate-electronic-contract-system)(6 Month)
+## 個人事業主(2021-01 ~ 2021-06)
+  - [不動産電子契約システムの新規開発](#new-development-of-real-estate-electronic-contract-system)(6ヶ月)
 
 ## rg-automated.jp (2021-07 ~ 2021-09)
-  - [Development of Production Management System for Factory Workers](#development-of-production-management-system-for-factory-workers)(3 Month)
+  - [工場作業員向け生産管理システムの開発](#development-of-production-management-system-for-factory-workers)(3ヶ月)
 
-## Individual Business Owner (Freelance Engineer)(2021-10 ~ 2023-12-31)
-  - [Development Assistance for Real Estate Electronic Contract System](#development-assistance-for-real-estate-electronic-contract-system)(8 Month)
-  - [Development of Real Estate Sales Support and Rental Apartment Search Service](#development-of-real-estate-sales-support-and-rental-apartment-search-service)(5 Month)
-  - [Loan Application Service for Financial Institutions](#loan-application-service-for-financial-institutions)(2 Month)
-  - [Cosmetic Surgery Appointment and Review Posting Service](#cosmetic-surgery-appointment-and-review-posting-service)(2 years over)
-  - [Development of Multi-tenant Service for Logistics Warehouse Management](#development-of-multi-tenant-service-for-logistics-warehouse-management) -> (3 month)
+## 個人事業主（フリーランスエンジニア）(2021-10 ~ 2023-12-31)
+  - [不動産電子契約システムの開発支援](#development-assistance-for-real-estate-electronic-contract-system)(8ヶ月)
+  - [不動産営業支援・賃貸物件検索サービスの開発](#development-of-real-estate-sales-support-and-rental-apartment-search-service)(5ヶ月)
+  - [金融機関向けローン申込サービス](#loan-application-service-for-financial-institutions)(2ヶ月)
+  - [美容整形の予約・口コミ投稿サービス](#cosmetic-surgery-appointment-and-review-posting-service)(2年以上)
+  - [物流倉庫管理のマルチテナントサービスの開発](#development-of-multi-tenant-service-for-logistics-warehouse-management)(3ヶ月)
 
-## hubble-docs.com (2024-01-01 ~ current)
+## hubble-docs.com (2024-01-01 ~ 現在)
 
-  - [Engaged in SRE Work for Contract-related Services](#engaged-in-sre-work-for-contract-related-services)
+  - [契約関連サービスのSRE業務に従事](#engaged-in-sre-work-for-contract-related-services)
 
-# Project Details
+# プロジェクト詳細
 
-## Feature Addition Project for Label Management Application
+## ラベル管理アプリケーションの機能追加プロジェクト
 
-### Position
+### 役職
 
-Responsible for implementation and testing of features
+機能の実装とテストを担当
 
-### Detailed Responsibilities
+### 詳細な責任
 
-- Feature addition using Laravel
-- Integration of CosmosDB (NoSQL) into the application
-- Use of AzureFunctions to connect the web app with CosmosDB
-- Environment setup with vagrant (local)
+- Laravelを使用した機能追加
+- CosmosDB (NoSQL)のアプリケーションへの統合
+- AzureFunctionsを使用してWebアプリとCosmosDBを接続
+- vagrant(ローカル)での環境構築
 
-## Renewal of Travel Information Site
+## 旅行情報サイトのリニューアル
 
-### Position
+### 役職
 
-- Detailed design, implementation, and testing (mainly responsible for the admin panel)
-- DB design and migration script creation for the renewal
+- 詳細設計、実装、テスト(主に管理画面担当)
+- リニューアルに伴うDB設計とマイグレーションスクリプト作成
 
-### Detailed Responsibilities
+### 詳細な責任
 
-- Web application development with Laravel
-- Responsible from design to testing
-- Also responsible for DB design and migration
-- Handled batch processing
+- Laravelを使用したWebアプリケーション開発
+- 設計からテストまでを担当
+- DB設計とマイグレーションも担当
+- バッチ処理を担当
 
-## Development of Game API Server
+## ゲームAPIサーバーの開発
 
-### Position
+### 役職
 
-- Detailed design, implementation, and testing of APIs
+- APIの詳細設計、実装、テスト
 
-### Detailed Responsibilities
+### 詳細な責任
 
-- API development using Laravel
+- Laravelを使用したAPI開発
 
-## Development and Operation of Sales Support System for Freelancers
+## フリーランス向け営業支援システムの開発・運用
 
-### Position
+### 役職
 
-- Full-stack engineer
+- フルスタックエンジニア
 
-### Detailed Responsibilities
+### 詳細な責任
 
-- API and web app development with SpringBoot
-- SPA development with Angular
-- CI/CD setup with CodePipeline
-- Development environment setup with Docker
-- AWS infrastructure design, construction, and codification (CloudFormation)
-- Introduction of Auth0 (OAuth2.0)
-- SendGrid
-- Creation of automated integration testing infrastructure (selenium)
-- Log and monitoring setup with Datadog
+- SpringBootを使用したAPIとWebアプリケーション開発
+- Angularを使用したSPA開発
+- CodePipelineを使用したCI/CD構築
+- Dockerを使用した開発環境構築
+- AWS インフラの設計・構築・コード化（CloudFormation）
+- Auth0（OAuth2.0）の導入
+- SendGridの導入
+- 自動統合テストインフラの構築（selenium）
+- Datadogを使用したログ・監視の設定
 
-## New Development of Real Estate Electronic Contract System
+## 不動産電子契約システムの新規開発
 
-### System Configuration
+### システム構成
 
-- Backend (Python, Django)
-- Frontend (TypeScript, Vue.js)
-- Infrastructure (AWS)
+- バックエンド（Python、Django）
+- フロントエンド（TypeScript、Vue.js）
+- インフラ（AWS）
 
-### Position
+### 役職
 
-- Backend
-- Infrastructure
+- バックエンド
+- インフラ
 
-### Detailed Responsibilities
+### 詳細な責任
 
-- Implementation of GraphQL queries and mutations
-- Infrastructure architecture design and construction (AWS)
-- Infrastructure load testing (JMeter)
-- Infrastructure codification with Terraform (IaC)
-- Automation of infrastructure updates with TerraformCloud
-- CI/CD setup with GithubActions
-- CI/CD setup with CodePipeline
-- Auto-scaling with ECS (Fargate)
-- Introduction of Datadog (log collection, monitoring, alerting)
-- Database tuning
+- GraphQLのクエリとミューテーションの実装
+- インフラアーキテクチャの設計と構築（AWS）
+- インフラの負荷テスト（JMeter）
+- Terraformを使用したインフラのコード化（IaC）
+- TerraformCloudを使用したインフラ更新の自動化
+- GithubActionsを使用したCI/CD構築
+- CodePipelineを使用したCI/CD構築
+- ECS（Fargate）を使用したオートスケーリング
+- Datadogの導入（ログ収集、監視、アラート）
+- データベースチューニング
 
-## Development of Production Management System for Factory Workers
+## 工場作業員向け生産管理システムの開発
 
-### System Configuration
+### システム構成
 
-- Backend (Java, SpringBoot)
-- Frontend (TypeScript, React)
-- Infrastructure (Azure)
+- バックエンド（Java、SpringBoot）
+- フロントエンド（TypeScript、React）
+- インフラ（Azure）
 
-### Position
+### 役職
 
-- SRE (sort of)
+- SRE（的な立ち位置）
 
-### Detailed Responsibilities
+### 詳細な責任
 
-- CI/CD setup with GithubActions (Kubernetes)
-- Created a GithubActions that automatically generates a preview environment on k8s during PR, and made it a common component
+- GithubActionsを使用したCI/CD構築（Kubernetes）
+- PR時にk8s上に自動でプレビュー環境を生成するGithubActionsを作成し、共通コンポーネント化
 
-## Development Assistance for Real Estate Electronic Contract System
+## 不動産電子契約システムの開発支援
 
-### System Configuration
+### システム構成
 
-- Backend (Python, Django)
-- Frontend (TypeScript, Vue.js)
-- Infrastructure (AWS)
+- バックエンド（Python、Django）
+- フロントエンド（TypeScript、Vue.js）
+- インフラ（AWS）
 
-### Position
+### 役職
 
-- System Architect
+- システムアーキテクト
 
-### Detailed Responsibilities
+### 詳細な責任
 
-- Improvement work on existing infrastructure
-- Development environment/infrastructure setup, application architecture design
-- Infrastructure design and review
+- 既存インフラの改善作業
+- 開発環境・インフラ構築、アプリケーションアーキテクチャ設計
+- インフラ設計とレビュー
 
-## Development of Real Estate Sales Support and Rental Apartment Search Service
+## 不動産営業支援・賃貸物件検索サービスの開発
 
-### System Configuration
+### システム構成
 
-- Infrastructure (AWS, GCP)
-- Backend (Ruby, Ruby on Rails)
-- Frontend (TypeScript, Next.js)
-- Mobile App (Swift, Kotlin)
+- インフラ（AWS、GCP）
+- バックエンド（Ruby、Ruby on Rails）
+- フロントエンド（TypeScript、Next.js）
+- モバイルアプリ（Swift、Kotlin）
 
-### Position
+### 役職
 
-- Infrastructure
+- インフラ
 - SRE
 
-### Detailed Responsibilities
+### 詳細な責任
 
-- Improved availability with MultiAZ introduction
-- MySQL version upgrade from 5 to 8
-- Speed improvement by parallelizing Rails tests (github actions, parallel-spec)
-- Monitoring setup
-- Migrated some app CI/CD to GithubActions
-- Codification of cloud resources around GCP (IaC, Terraform)
-- Built a mechanism for data synchronization between MySQL and BigQuery (DigDag, BigQuery DataTransfer)
+- MultiAZ導入による可用性向上
+- MySQLのバージョンアップ（5から8へ）
+- Railsテストの並列化による高速化（github actions、parallel-spec）
+- 監視の設定
+- 一部アプリのCI/CDをGithubActionsに移行
+- GCP周りのクラウドリソースのコード化（IaC、Terraform）
+- MySQLとBigQuery間のデータ同期の仕組みを構築（DigDag、BigQuery DataTransfer）
 
-## Loan Application Service for Financial Institutions
+## 金融機関向けローン申込サービス
 
-### System Configuration
+### システム構成
 
-- Infrastructure (AWS, Lambda)
-- Backend (Python)
+- インフラ（AWS、Lambda）
+- バックエンド（Python）
 
-### Position
+### 役職
 
-- Infrastructure
+- インフラ
 
-### Detailed Responsibilities
+### 詳細な責任
 
-Infrastructure
+インフラ
 
-- Infrastructure design and construction for serverless app with Lambda
-- Automation of ChangeCalendar operation
-- Codification with Terraform
-- Local environment design and construction
+- Lambdaを使用したサーバーレスアプリのインフラ設計・構築
+- ChangeCalendar運用の自動化
+- Terraformを使用したコード化
+- ローカル環境の設計・構築
 
-## Cosmetic Surgery Appointment and Review Posting Service
+## 美容整形の予約・口コミ投稿サービス
 
-### System Configuration
+### システム構成
 
-- Infrastructure (AWS, GCP)
-- Backend (Ruby, Ruby on Rails)
-- Frontend (TypeScript, Next.js)
-- Mobile App (Swift, Kotlin)
+- インフラ（AWS、GCP）
+- バックエンド（Ruby、Ruby on Rails）
+- フロントエンド（TypeScript、Next.js）
+- モバイルアプリ（Swift、Kotlin）
 
-### Position
+### 役職
 
-- Infrastructure
-- Backend
+- インフラ
+- バックエンド
 
-### Detailed Responsibilities
+### 詳細な責任
 
-Infrastructure/DevOps
+インフラ/DevOps
 
-- SLO & SLI formulation
-- Introduction of Elasticsearch and design and construction of real-time data synchronization mechanism with RDB
-- Kubernetes cluster construction with EKS
-- Migration from EC2 (Kops, Kubernetes) to EKS
-- Migration from RDS (MySQL) to Aurora (MySQL)
-- MySQL version upgrade (5 to 8)
-- Deployment pipeline construction to EKS (CircleCI + Terraform Cloud, k8s resources also controlled with terraform)
-- Migration of batch processing to k8s CronJob
-- Implementation of auto-scaling with HorizonPodAutoscaler and Fargate
-- Construction of a mechanism to automatically generate and share DB documents (Actions, AWS, Cloudfront)
-- Codification of infrastructure (Terraform) + CI/CD setup (Terraform Cloud)
-- Construction of log/monitoring infrastructure (Datadog), alert settings, dashboard creation
-- Construction of Redash, an analysis OSS, in the internal AWS environment and migration from SaaS
-- Improvement of AWS usage fees (regular deletion of unnecessary resources and introduction of SavingPlan)
-- Introduction of AWS Control Tower and AWS SSO to simplify multi-account permissions and management
-- Construction and maintenance of OSS digdag, which can create workflows around data analysis, in the internal AWS environment
-- SES bounce mail countermeasures
-- Separation of AWS accounts for production and other environments
-- Construction of SSO with Google Workspace using Cognito on the internal management screen
-- Construction of appropriate auto-scaling settings using Aurora ServerlessV2 and regular instances
-- Construction of a mechanism to periodically synchronize data between production and other environments (RDS, ECS, S3, EKS)
-- Introduction of VPN in the company (YAMAHA router)
-- Realization of appropriate access restrictions to resources using WAF
-- Introduction of 1Password to properly manage confidential information
-- Introduction of security-related services and alert settings
-- Introduction of Session Manager
+- SLO & SLIの策定
+- Elasticsearchの導入とRDBとのリアルタイムデータ同期の仕組みの設計・構築
+- EKSを使用したKubernetesクラスタの構築
+- EC2（Kops、Kubernetes）からEKSへの移行
+- RDS（MySQL）からAurora（MySQL）への移行
+- MySQLのバージョンアップ（5から8へ）
+- EKSへのデプロイパイプライン構築（CircleCI + Terraform Cloud、k8sリソースもterraformで制御）
+- バッチ処理のk8s CronJobへの移行
+- HorizonPodAutoscalerとFargateを使用したオートスケーリングの実装
+- DBドキュメントを自動生成・共有する仕組みの構築（Actions、AWS、Cloudfront）
+- インフラのコード化（Terraform）+ CI/CD設定（Terraform Cloud）
+- ログ・監視インフラ（Datadog）の構築、アラート設定、ダッシュボード作成
+- 分析OSS Redashを社内AWS環境に構築しSaaSから移行
+- AWS利用料金の改善（不要リソースの定期削除とSavingPlanの導入）
+- AWS Control TowerとAWS SSOの導入によるマルチアカウントの権限・管理の簡素化
+- データ分析周りのワークフローを作成できるOSS digdagを社内AWS環境に構築・運用
+- SESバウンスメール対策
+- 本番環境とその他環境のAWSアカウント分離
+- 社内管理画面でのGoogle Workspaceを使用したSSOをCognitoで構築
+- Aurora ServerlessV2と通常インスタンスを使用した適切なオートスケーリング設定の構築
+- 本番環境とその他環境間でのデータ定期同期の仕組み構築（RDS、ECS、S3、EKS）
+- 社内VPNの導入（YAMAHAルーター）
+- WAFを使用したリソースへの適切なアクセス制限の実現
+- 機密情報を適切に管理するための1Passwordの導入
+- セキュリティ関連サービスの導入とアラート設定
+- Session Managerの導入
 
-Backend
+バックエンド
 
-- Docker image size tuning
-- Modification to use separate DBs for writing and reading (multi-DB support)
-- Local development environment setup
-- Performance tuning of bottleneck areas based on APM
-- Class design and implementation around Elasticsearch
-- Elasticsearch search performance tuning
-- Speed improvement by parallel execution of tests
-- Development wiki maintenance
-- Design and implementation of LINE login
-- Modification to properly collect error logs
-- Modification to reduce SES bounce rate
-- Adjustment of settings around asynchronous processing (Sidekiq)
-- Migration of web server from unicorn to puma and multithreading
-- Library version upgrade work and automation of version check
+- Dockerイメージサイズのチューニング
+- 書き込みと読み込みで別DBを使用するように修正（マルチDB対応）
+- ローカル開発環境の整備
+- APMに基づくボトルネック箇所のパフォーマンスチューニング
+- Elasticsearch周りのクラス設計と実装
+- Elasticsearchの検索パフォーマンスチューニング
+- テストの並列実行による高速化
+- 開発wikiの整備
+- LINEログインの設計と実装
+- エラーログを適切に収集するように修正
+- SESバウンス率を下げるための修正
+- 非同期処理周りの設定調整（Sidekiq）
+- Webサーバーをunicornからpumaに移行しマルチスレッド化
+- ライブラリのバージョンアップ作業とバージョンチェックの自動化
 
-Machine Learning (ML) / Data
+機械学習（ML）/データ
 
-- Design and construction of a mechanism for regular data synchronization from RDS to BigQuery (EventBridge, Lambda, Cloud Function, BigQuery DataTransfer)
-- Maintenance of data flow for data import, etc., collected by various analysis SaaS (GCP Storage, BigQuery DataTransfer)
-- Creation of recommendation model with AWS Personalize
+- RDSからBigQueryへの定期データ同期の仕組みの設計・構築（EventBridge、Lambda、Cloud Function、BigQuery DataTransfer）
+- 各種分析SaaSで収集したデータのインポートなどのデータフローの整備（GCP Storage、BigQuery DataTransfer）
+- AWS Personalizeを使用したレコメンドモデルの作成
 
-## Development of Multi-tenant Service for Logistics Warehouse Management
+## 物流倉庫管理のマルチテナントサービスの開発
 
-### System Configuration
+### システム構成
 
-- Infrastructure (AWS)
-- Backend (PHP, Laravel)
-- Frontend (PHP, Laravel)
+- インフラ（AWS）
+- バックエンド（PHP、Laravel）
+- フロントエンド（PHP、Laravel）
 
-### Position
+### 役職
 
-- Infrastructure
+- インフラ
 
-### Detailed Responsibilities
+### 詳細な責任
 
-Infrastructure/DevOps
+インフラ/DevOps
 
-- Migration to ECS (container)
-  - Containerization of the app
-  - Construction of CI/CD pipeline (GithubActions)
-- Realization of IaC with AWS CDK
-  - Coding with Python
-  - Construction of CI/CD pipeline for CDK (GithubActions)
-- Multi-region support
-  - Addition of GlobalDatabase
-  - Creation of scripts for automation of failover work
-- Creation of AWS Cloudwatch Dashboard
-  - Created with CDK for each stack
-- Realization of application auto-scaling
-  - Description of settings to scale by the number of requests
-  - Conducted operation confirmation with load testing
-- Verification of SAML authentication with AWS DirectoryService and ADFS
+- ECS（コンテナ）への移行
+  - アプリのコンテナ化
+  - CI/CDパイプラインの構築（GithubActions）
+- AWS CDKを使用したIaCの実現
+  - Pythonを使用したコーディング
+  - CDK用のCI/CDパイプラインの構築（GithubActions）
+- マルチリージョン対応
+  - GlobalDatabaseの追加
+  - フェイルオーバー作業の自動化スクリプトの作成
+- AWS Cloudwatchダッシュボードの作成
+  - スタックごとにCDKで作成
+- アプリケーションのオートスケーリングの実現
+  - リクエスト数でスケールする設定の記述
+  - 負荷テストで動作確認を実施
+- AWS DirectoryServiceとADFSでのSAML認証の検証
 
-Backend
+バックエンド
 
-- Construction of local development environment with Docker
-- Development of functions for SAML authentication
-  - Implementation to realize SSO with ADFS and AzureAD
+- Dockerを使用したローカル開発環境の構築
+- SAML認証の機能開発
+  - ADFSとAzureADでSSOを実現するための実装
 
-## Engaged in SRE Work for Contract-related Services
+## 契約関連サービスのSRE業務に従事
 
-### Detailed Responsibilities
+### 詳細な責任
 
-- Introduction of OpenSearch and modification of search functions
-  - From infrastructure construction to application code implementation
-  - Successfully migrated from Algolia and performed performance tuning, etc.
-- Terraformization of infrastructure and introduction of TerraformCloud
-  - Migration of multiple (more than 10) ECS services to Terraform and migration of multiple services from AppRunner to ECS
-- Design and construction of CI/CD pipeline for multiple services
-  - Including CI speed tuning work (parallel execution of tests, DB cache, Dockerfile improvement, etc.)
-- Maintenance of monitoring infrastructure around Datadog
-  - Maintenance of log pipeline, creation of log view, creation of dashboards specialized for each component of the app
-  - Created dashboards to focus on monitoring at the enterprise level, making developers more sensitive to latency, etc.
-- Re-architecture of the entire system
-  - Replaced inefficient or highly complex services to improve overall system quality and optimize costs, etc.
-  - Infrastructure architecture modification of services with security vulnerabilities
-  - Integration of services developed in other languages or Lambda into Rails to simplify the system
-- Implementation of provisioning function in compliance with SCIM2.0 standard
-- Construction of data analysis infrastructure
-  - Creation of Redash, an analysis tool, in ECS environment
-  - Introduction of Redshift. Implementation of Zero ETL.
-  - Realization of DB migration using Flyway
-- Implementation of analysis functions for customers using Amazon Quicksight
+- OpenSearchの導入と検索機能の改修
+  - インフラ部分の設計からアプリケーションコードの実装まで
+  - Algoliaからの移行を成功させ、パフォーマンスチューニングなども実施
+- インフラのIaC化と運用
+  - システム全体のTerraform化、TerraformCloudの導入
+  - インフラ運用方法の策定・周知
+  - 複数（10以上）のサービスをインフラをTerraform化し、複数サービスをAppRunnerからECSに移行
+- 複数サービスのCI/CDパイプラインの設計・構築
+  - CIの高速化作業（テストの並列実行、DBキャッシュ、Dockerfileの改善など）含む
+- Datadog周りの監視インフラの整備
+  - ログパイプラインの整備、ログビューの作成、アプリの各コンポーネントに特化したダッシュボードの作成
+  - 企業レベルでの監視に注力したダッシュボードを作成し、開発者がレイテンシーなどに敏感になるようにした
+- システム全体のリアーキテクチャ
+  - 非効率または複雑性の高いサービスを置き換え、システム全体の品質向上やコスト最適化などを実現
+  - セキュリティ上の脆弱性があるサービスのインフラアーキテクチャ修正
+  - 他言語やLambdaで開発されたサービスをRailsに統合してシステムをシンプルに
+- SCIM2.0規格に準拠したプロビジョニング機能の実装
+- データ分析インフラの構築
+  - 分析ツールRedashをECS環境に作成
+  - Redshiftの導入。Zero ETLの実装
+  - Flywayを使用したDBマイグレーションの実現
+- Amazon Quicksightを使用した顧客向け分析機能の実装
