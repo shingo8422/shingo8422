@@ -6,9 +6,9 @@
 | Business        | Staff [Hubble Inc. (Hubble)](https://hubble-docs.com/about)                                                |
 | Age             | 27                                                                                                         |
 | Gender          | Male                                                                                                       |
-| From            | Japan, Hokkaido, Sapporo                                                                                   |
-| Last Education  | High School Graduate                                                                                       |
 | Location        | Sapporo, Hokkaido, Japan                                                                                   |
+| From            | Sapporo, Hokkaido, Japan                                                                                   |
+| Last Education  | High School Graduate                                                                                       |
 | Qualification   | [AWS Certified Solutions Architect Professional](https://www.credly.com/users/shingo-sato.6e128a4c/badges) |
 | Driving License | Regular Driver's License (Automatic Transmission)                                                          |
 
