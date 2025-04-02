@@ -3,7 +3,6 @@
 | Item            | Content                                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------------------------------- |
 | Name            | Sato Shingo                                                                                                |
-| Business        | Staff [Hubble Inc. (Hubble)](https://hubble-docs.com/about)                                                |
 | Age             | 27                                                                                                         |
 | Gender          | Male                                                                                                       |
 | Location        | Sapporo, Hokkaido, Japan                                                                                   |
