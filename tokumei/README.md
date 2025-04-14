@@ -2,13 +2,13 @@
 
 | Item            | Content                                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------------------------------- |
-| Name            | Sato Shingo                                                                                                |
+| Name            | S.S                                                                                                        |
 | Age             | 28                                                                                                         |
 | Gender          | Male                                                                                                       |
-| Location        | Sapporo, Hokkaido, Japan                                                                                   |
-| From            | Sapporo, Hokkaido, Japan                                                                                   |
+| Location        | Hokkaido                                                                                                   |
+| From            | Hokkaido                                                                                                   |
 | Last Education  | High School Graduate                                                                                       |
-| Qualification   | [AWS Certified Solutions Architect Professional](https://www.credly.com/users/shingo-sato.6e128a4c/badges) |
+| Qualification   | AWS Certified Solutions Architect Professional                                                             |
 | Driving License | Regular Driver's License (Automatic Transmission)                                                          |
 
 # 企業在籍履歴
