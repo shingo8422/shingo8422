@@ -22,6 +22,11 @@
 - 2019-09-01 ~ 2020-09-30 株式会社ウィナス
 - 2019-04-01 ~ 2019-04-31 株式会社バルテック
 
+# 会社ホームページ
+
+- [株式会社SephirothicSystem](https://corp.sephirothic-system.com/)
+- [株式会社NORMN](https://www.normn.jp/)
+
 # 経験したポジション
 
 - バックエンドエンジニア (6年以上)
