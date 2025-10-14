@@ -37,44 +37,53 @@
 # 強み
 
 - 様々なポジションでの開発経験があるため、状況に応じて柔軟に対応できます。
+- フルスタックに開発し、一人で設計から実装、リリースまで持っていくことができます。
 - システムを俯瞰的にみて、開発ができます。
 - 顧客のユーザー体験はいつも頭の片隅に置いていて、責任感を持って仕事に取り組んでいます。
 - エンジニア以外のチームにわかりやすい言葉で説明することができます。
 - 問題解決能力・論理的思考力が高いです。
 - 未知の技術に対しての抵抗感が一切ないです。
+- AI Nativeな開発を行っているので、スピード感を持って作業しています。
 
 # スキル
 
-| Item                   | Content                                                                          |
-| ---------------------- | -------------------------------------------------------------------------------- |
-| Programming Languages  | Python, Ruby, PHP, Java, TypeScript, JavaScript                                  |
-| Frameworks             | Laravel(PHP), Django(Python), SpringBoot(Java), Angular(TypeScript), Rails(Ruby) |
-| Container Technology   | Docker, Kubernetes, EKS(AWS), ECS(AWS), ECR(AWS)                                 |
-| CDN                    | CloudFront, Vercel                                                               |
-| CICD                   | CodePipeline(AWS), CircleCI, GithubActions, Cloudbuild(GCP)                      |
-| IaC                    | Terraform, Terraform Cloud, CloudFormation, AWS CDK                              |
-| DB                     | MySQL, PostgreSQL, MongoDB, Redis, RDS(Aurora), DocumentDB, Elasticache          |
-| Search Engine          | OpenSearch(AWS), Elasticsearch(Elastic Cloud)                                    |
-| Data Analysis          | Redash, BigQuery(GCP), Redshift(AWS), Kibana, Digdag(Embulk)                     |
-| Source Code Management | git, Github, Gitlab, CodeCommit(AWS)                                             |
-| Authentication Service | Auth0, Cognito                                                                   |
-| Email Service          | Sendgrid, SES(AWS)                                                               |
-| Monitoring Tool        | Datadog, Sentry, StatusPage(Attlacian), Cloudwatch(AWS)                          |
+| Item                   | Content                                                                                           |
+| ---------------------- | ------------------------------------------------------------------------------------------------- |
+| AI Tools               | Cursor, Gemini, ChatGPT, Devin, Codex                                                             |
+| AI Services            | Cloudflare Workers AI, VertexAI(GCP), Bedrock(Amazon)                                             |
+| AI Framework           | LangChain, LangGraph, AutoGen2                                                                    |
+| Programming Languages  | Python, Ruby, PHP, Java, TypeScript, JavaScript                                                   |
+| Frameworks             | Laravel(PHP), Django(Python), FastAPI(Python), SpringBoot(Java), Next.js(TypeScript), Rails(Ruby) |
+| Container Technology   | Docker, Kubernetes, EKS(AWS), ECS(AWS), ECR(AWS)                                                  |
+| CDN                    | CloudFront, Vercel, Cloudflare                                                                    |
+| CICD                   | CodePipeline(AWS), CircleCI, GithubActions, Cloudbuild(GCP)                                       |
+| IaC                    | Terraform, Terraform Cloud, CloudFormation, AWS CDK                                               |
+| DB                     | MySQL, DynamoDB, PostgreSQL, MongoDB, Redis, RDS(Aurora), DocumentDB, Elasticache                 |
+| Search Engine          | OpenSearch(AWS), Elasticsearch(Elastic Cloud)                                                     |
+| Data Analysis          | Redash, BigQuery(GCP), Quicksight(AWS), Redshift(AWS), Kibana, Digdag(Embulk)                     |
+| Source Code Management | git, Github, Gitlab, CodeCommit(AWS)                                                              |
+| Authentication Service | Auth0, WorkOS, KeyCloak, Cognito                                                                  |
+| Email Service          | Sendgrid, SES(AWS)                                                                                |
+| Monitoring Tool        | Datadog, Sentry, StatusPage(Attlacian), Cloudwatch(AWS)                                           |
+| Test Automation Tool   | Datadog, Selenium, Playwright, Taurus(Distributed Load Testing on AWS)                            |
 
 # 経歴
 
 ## Normn (2025-04-01 ~ 現在)
 
   - CTOとして、複数プロジェクトの技術的な方針決定や設計・レビュー等がメイン
-    - データ分析 アプリケーション
+    - データ収集&分析 アプリケーション
       - 案件獲得までのプロトタイプ作成
       - 獲得後は、主に技術選定や設計に注力し、ジュニアレベルのエンジニアに指示を出したり、レビューしたり
     - 開発企業向けの生成AI基盤提供サービス
       - この案件は、自身がエンジニアとして、派遣されている。
       - 認証周りの設計と実装をメインに担当
-      - 元々、社内の他メンバーに引き継ぐ予定なので、８月空は稼働少なめで、上流業務に注力する予定
+    - コンサル・人材派遣会社でのAI基盤の実装
+      - AI Agentの基盤部分の設計と実装
 
 ## 株式会社SephirothicSystem (2025-01-01 ~ 現在)
+  - 2025-10-01 ~ 現在
+    - [インフラのコスト最適化業務](#インフラのコスト最適化業務)
   - 2025-07-01 ~ 2025-09-30
     - [セキュリティプラットフォームのインフラ構築業務](#セキュリティプラットフォームのインフラ構築業務)
   - 自社サービス(一人ですべて行っている)
@@ -82,10 +91,6 @@
       - [LoL Guide](https://www.lol-guide.com/)
         - League of Legendsに特化した攻略サイト
         - AWS, Python(Django), TypeScript(Next.js)で開発
-      - [Coachify](https://coachify.jp/)
-        - コーチング、オンラインサロン運営、メルマガ配信すべてが１つとなったオールインワンSaaS
-        - AWS, Python(Django), TypeScript(Next.js)で開発
-        - サイト内に掲載してあるような機能が盛り込まれている
       - [Sowzow](https://corp.sephirothic-system.com/sowzow/index.html)
         - AI Nativeな小説執筆支援アプリケーション
   - その他過去に関わりのあった企業のお手伝い
@@ -138,11 +143,29 @@
 
 # プロジェクト詳細
 
+## インフラのコスト最適化業務
+
+### 役割
+
+- コスト削減に特化した企業でクラウドアーキテクトとしてジョイン
+- 複数クライアントのインフラ(主にAWS)のコストを最適化する業務を行っている
+
+### 詳細な責任
+
+- クライアントとのやり取り(クライアントワーク)
+  - 事前ヒアリング
+  - コスト診断結果説明
+  - etc
+- 資料の作成
+- AWS環境をみてコスト最適化の診断を行う
+- コスト最適化作業の実行
+
 ## セキュリティプラットフォームのインフラ構築業務
 
 ### 役割
 
 - アーキテクチャ図をもとに、AWS CDKでIaCを実施
+- 基本的には、ほぼ作業員のような形で稼働
 - AWSクロスアカウントでのネットワーク構築の知見を得た
 
 ## 契約書管理SaaSのSRE業務に従事
