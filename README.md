@@ -107,8 +107,8 @@
       - ゲームのコーチングに特化したマッチングプラットフォーム。リリースしたばかり。
     - [AutoCup.gg](https://www.autocup.gg/)
       - ゲームのオンライン大会の開催・運営を効率的に行うためのプラットフォーム。リリースしたばかり。
-    - [Meta-View.gg](https:www.meta-view.gg/)
-      - 準備中。ゲームのフィードバックを行いやすくするためのサービス・ツール。2026年1月リリース予定。
+    - [Meta-View.gg](https://www.meta-view.gg/)
+      - ゲームのVODコーチングを行いやすくするためのサービス・ツール。
   - LoLのプロeSportsチーム「L Guide Gaming」の運営
     - 公式X: https://x.com/lol_guide_jp
     - 2025年12月にメンバーを集めたばかり。2026年のLJL 2026に挑戦する。
