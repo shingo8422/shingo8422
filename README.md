@@ -3,7 +3,7 @@
 | Item            | Content                                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------------------------------- |
 | Name            | Sato Shingo                                                                                                |
-| Age             | 28                                                                                                         |
+| Age             | 29                                                                                                         |
 | Gender          | Male                                                                                                       |
 | Location        | Sapporo, Hokkaido, Japan                                                                                   |
 | From            | Sapporo, Hokkaido, Japan                                                                                   |
@@ -11,9 +11,15 @@
 | Qualification   | [AWS Certified Solutions Architect Professional](https://www.credly.com/users/shingo-sato.6e128a4c/badges) |
 | Driving License | Regular Driver's License (Automatic Transmission)                                                          |
 
+# 現在の活動・稼働状況
+
+2026年11月に株式会社NORMNを退職し、株式会社SephirothicSystemの事業に注力しています。
+自社サービスの開発・運営やゲーム開発に取り組みながら、週2〜3日程度で参画できる開発案件を探しています。
+
 # 企業在籍履歴
 
-- 2025-04-01 ~ 現在　　　株式会社Normn CTO, 株式会社SephirothicSystem CEO
+- 2025-04-01 ~ 2026-11 株式会社NORMN CTO
+- 2025-01-01 ~ 現在 株式会社SephirothicSystem CEO
 - 2024-01-01 ~ 2025-02-28 株式会社Hubble
 - 2021-10-01 ~ 2023-12-31 個人事業主
 - 2021-07-01 ~ 2021-09-30 株式会社リアルグローブ・オートメーティッド
@@ -43,7 +49,9 @@
 - エンジニア以外のチームにわかりやすい言葉で説明することができます。
 - 問題解決能力・論理的思考力が高いです。
 - 未知の技術に対しての抵抗感が一切ないです。
-- AI Nativeな開発を行っているので、スピード感を持って作業しています。
+- Agent Skillや開発ルールの整備、マルチエージェントの活用を通じて、AI Nativeな開発を実践しています。
+- AIレビューを積極的に活用し、認証・決済などの重要箇所は自身でもレビューすることで、開発速度と品質を両立しています。
+- ブラウザ操作からデータベースの値の検証まで含む結合テストと監視を整備し、変更頻度の高い開発でも問題を早期に検知できる仕組みを構築できます。
 
 # スキル
 
@@ -53,9 +61,10 @@
 | AI Services            | Cloudflare Workers AI, VertexAI(GCP), Bedrock(Amazon)                                             |
 | AI Framework           | LangChain, LangGraph, AutoGen2                                                                    |
 | Programming Languages  | Python, Ruby, PHP, Java, TypeScript, JavaScript                                                   |
-| Frameworks             | Laravel(PHP), Django(Python), FastAPI(Python), SpringBoot(Java), Next.js(TypeScript), Rails(Ruby) |
+| Frameworks             | Laravel(PHP), Django(Python), FastAPI(Python), SpringBoot(Java), Next.js(TypeScript), Nuxt.js(TypeScript), Rails(Ruby) |
 | Container Technology   | Docker, Kubernetes, EKS(AWS), ECS(AWS), ECR(AWS)                                                  |
 | CDN                    | CloudFront, Vercel, Cloudflare                                                                    |
+| Hosting                | Vercel, Amplify(AWS)                                                                              |
 | CICD                   | CodePipeline(AWS), CircleCI, GithubActions, Cloudbuild(GCP)                                       |
 | IaC                    | Terraform, Terraform Cloud, CloudFormation, AWS CDK                                               |
 | DB                     | MySQL, DynamoDB, PostgreSQL, MongoDB, Redis, RDS(Aurora), DocumentDB, Elasticache                 |
@@ -63,13 +72,19 @@
 | Data Analysis          | Redash, BigQuery(GCP), Quicksight(AWS), Redshift(AWS), Kibana, Digdag(Embulk)                     |
 | Source Code Management | git, Github, Gitlab, CodeCommit(AWS)                                                              |
 | Authentication Service | Auth0, WorkOS, KeyCloak, Cognito                                                                  |
+| Payment Service        | Stripe                                                                                           |
 | Email Service          | Sendgrid, SES(AWS)                                                                                |
 | Monitoring Tool        | Datadog, Sentry, StatusPage(Attlacian), Cloudwatch(AWS)                                           |
 | Test Automation Tool   | Datadog, Selenium, Playwright, Taurus(Distributed Load Testing on AWS)                            |
 
 # 経歴
 
-## Normn CTOとして在籍 (2025-04-01 ~ 現在)
+## 直近のプロジェクト
+
+- 2026-06-01 ~ 2026-11-30 [プログラミング学習プラットフォームの移行・バージョンアップ](#learning-platform-migration)
+- 2026-01-01 ~ 2026-11-30 [LLMサービス向け認証・決済基盤アプリケーションの開発](#llm-service-platform)
+
+## 株式会社NORMN CTOとして在籍 (2025-04-01 ~ 2026-11)
 
 ### 2025-04-01 ~ 2025-08-31
   - 複数プロジェクトの技術的な方針決定や設計・レビュー等がメイン
@@ -82,7 +97,7 @@
     - コンサル・人材派遣会社でのAI基盤の実装
       - AI Agentの基盤部分の設計と実装
 
-### 2025-09-01 ~ 現在
+### 2025-09-01 ~ 2026-11
   - AIエージェント系構築案件の共通基盤部分の設計や実装、運用ルールの策定
     - 共通データベース基盤
     - 決済基盤
@@ -97,21 +112,14 @@
     - [セキュリティプラットフォームのインフラ構築業務](#セキュリティプラットフォームのインフラ構築業務)
 
 ### メイン事業
-  - 自社サービスの開発・運営
+  - 自社サービスの開発・運営（以下の2サービスに注力）
     - [LoL Guide](https://www.lol-guide.com/)
       - League of Legendsに特化した攻略メディアサイト。月間50万PV程度。
       - 公式X: https://x.com/lol_guide_jp
-    - [Sowzow](https://corp.sephirothic-system.com/sowzow/index.html)
-      - AI Nativeな小説執筆支援アプリケーション。利用者がほとんどいないので、追加開発は中止している。
-    - [オレのシショー](https://www.mymaster.gg/)
-      - ゲームのコーチングに特化したマッチングプラットフォーム。リリースしたばかり。
-    - [AutoCup.gg](https://www.autocup.gg/)
-      - ゲームのオンライン大会の開催・運営を効率的に行うためのプラットフォーム。リリースしたばかり。
-    - [Meta-View.gg](https://www.meta-view.gg/)
-      - ゲームのVODコーチングを行いやすくするためのサービス・ツール。
-  - LoLのプロeSportsチーム「L Guide Gaming」の運営
+    - LoL Guide Desktop
+  - ゲーム開発
+  - League of LegendsのeSportsチーム「L Guide Gaming」の運営
     - 公式X: https://x.com/lol_guide_jp
-    - 2025年12月にメンバーを集めたばかり。2026年のLJL 2026に挑戦する。
   - その他過去に関わりのあった企業のお手伝い
     - 基本的に関わった企業とSlackConnectでつながっており、たまに相談に乗ったりしている
 
@@ -158,6 +166,66 @@
 ## 石狩南高校 卒業(2016-03)
 
 # プロジェクト詳細
+
+<a id="learning-platform-migration"></a>
+
+## プログラミング学習プラットフォームの移行・バージョンアップ
+
+### 期間
+
+2026-06-01 ~ 2026-11-30
+
+### 使用技術
+
+Ruby, Ruby on Rails, TypeScript, Nuxt.js, AWS Amplify, Amazon ECS
+
+### 概要・担当範囲
+
+- プログラミング学習プラットフォームのデータベース・インフラを、別のAWSアカウントへ移行。
+- アプリケーションと各種ライブラリのバージョンアップ、およびリファクタリングを担当。
+
+### 開発の進め方
+
+- 移行・改修に先立ち、全機能の操作をカバーする結合テストを設計・実装。
+- 最上位のAIモデルを用いたマルチエージェントで、ライブラリのバージョンアップとリファクタリングを実施。
+- AIレビューを積極的に活用し、決済・認証などの重要箇所は自身でもレビュー。
+- 結合テストで動作を検証しながら、インフラ移行とアプリケーションの更新を推進。
+
+### 成果
+
+- AWSアカウント間のデータベース・インフラ移行を問題なく完了。
+- 決済・認証関連ライブラリのバージョンアップを完了し、決済が正常に行えない問題を解消。
+- フロントエンド全体のライブラリのバージョンアップも問題なく完了。
+
+<a id="llm-service-platform"></a>
+
+## LLMサービス向け認証・決済基盤アプリケーションの開発
+
+### 期間
+
+2026-01-01 ~ 2026-11-30
+
+### 使用技術
+
+Python, FastAPI, TypeScript, Next.js, Vercel, Amazon ECS, Auth0, Stripe, Datadog
+
+### 概要・担当範囲
+
+- LLMを組み込んだサービスの共通基盤となるアプリケーションを開発。
+- Auth0やStripeを利用し、各サービスの認証・決済を担う基盤を構築。
+- Agent Skill・開発ルールの整備から、アーキテクチャ設計、実装、テスト、結合テスト、インフラ構築まで一貫して担当。
+
+### 開発の進め方
+
+- AI Nativeな開発でPRのマージ頻度が高まることを見据え、継続的に品質を確認できる結合テストを設計・実装。
+- ブラウザで各種機能を操作して動作を検証し、対象となる処理についてはデータベースの値まで確認。
+- 結合テストを毎日自動実行し、トレースをDatadogへ連携。問題を検知した際に即座にアラートを通知する仕組みを構築。
+- AIレビューを積極的に活用し、認証・決済などの重要箇所は自身でもレビュー。
+
+### 成果
+
+- 基盤アプリケーションは運用フェーズに移行し、3つのサービスの認証・決済基盤として稼働。
+- 日次の結合テストと監視・アラートを組み合わせ、継続的な開発に伴う問題を早期に検知できる体制を整備。
 
 ## インフラのコスト最適化業務
 
